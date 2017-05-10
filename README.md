@@ -1,6 +1,11 @@
 # sublime_settings
 My sublime settings
 
+### Dependencies 
+- Anonymous Pro font
+- Boxy Theme
+- Frontier Color Scheme from `Colorsublime`
+
 ```json
 
 {
